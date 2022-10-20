@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PingISFun&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![PingIsFun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PingIsFun&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
 
 🇸🇮 Slovenia
 
